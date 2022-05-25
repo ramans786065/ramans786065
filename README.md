@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Raman sharma
+- 👀 I’m interested in exploring more about Machine learning, Python programming
+- 🌱 I’m currently learning Machine Learning
+- 💞️ I’m looking to collaborate on AI 
+- 📫 How to reach me "ramans786065@gmail.com"
